@@ -1,2 +1,2 @@
-# Python_anal
+# Python_analy
 data_crawling
